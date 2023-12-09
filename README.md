@@ -6,7 +6,7 @@ This particular script will
 - read data from excel table (see sample `test_data.xlsx`)
 - generate a proof-drill checksheetfor each data-row in excel sheet
 
-#Usage
+# Usage
 - Download the chrome driver for selenium in the script directory
 - Install python libraries from file `req.txt`
 - Update excel data and credentials. Make sure to put dates as of type `str`/`TEXT` in excel workbook.
